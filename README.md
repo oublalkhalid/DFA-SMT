@@ -6,7 +6,7 @@
 **by:** Khalid OUBLAL,
 
 - Google Drive sources [https://drive.google.com/drive/folders/17jRhlsGOv459fzybTg15Al3Qa_VgcLW9?usp=sharing](https://drive.google.com/drive/folders/17jRhlsGOv459fzybTg15Al3Qa_VgcLW9?usp=sharing)
-- Documentation [https://github.com/oublalkhalid/DFA-SMT](https://github.com/oublalkhalid/DFA-SMT)
+- Documentation [https://smt-dfa.netlify.app/](https://smt-dfa.netlify.app/)
 ## Experience 1: (Check section 3.1 of the report)
 
 I then compare Z3GI's which is an implementation of Translation-to-SMT in term of performance on a number of systems (algorithms implemented in LearnLib) and Tomte 0.41.I did also same implementation from scratch, baisically to more explore each fonctionality provided on the paper **Model Learning as a Satisfiability Modulo Theories Problem**.
