@@ -1,4 +1,4 @@
-# odel Learning as a Satisfiability Modulo Theories Problem (DFA-SMT)
+# Model Learning as a Satisfiability Modulo Theories Problem (DFA-SMT)
 
 
 
